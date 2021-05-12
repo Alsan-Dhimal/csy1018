@@ -1,0 +1,23 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.ram{ 
+	background-color: green;
+	padding: 30px;
+	width: 100%;
+	text-align: center;
+	font-size: 30px;
+ }
+ .root{
+ 	background-color: red;
+ 	padding:100px;
+
+
+ }
+ .yes{
+ 	background-color: green;
+ 	padding: 30px;
+ 	text-align: center;
+ 	font-size: 20px;
+ }
